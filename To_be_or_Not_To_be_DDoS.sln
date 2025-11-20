@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36017.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "To_be_or_Not_To_be_DDoS", "To_be_or_Not_To_be_DDoS.csproj", "{739B47EE-2AB2-4F3B-B259-5224C0B6C564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739B47EE-2AB2-4F3B-B259-5224C0B6C564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739B47EE-2AB2-4F3B-B259-5224C0B6C564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739B47EE-2AB2-4F3B-B259-5224C0B6C564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739B47EE-2AB2-4F3B-B259-5224C0B6C564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02A709B4-BF4C-4C55-A211-CB70D19FF635}
+	EndGlobalSection
+EndGlobal
